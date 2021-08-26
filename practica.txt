@@ -3,6 +3,8 @@ aqui estoy haciendo un cambio
 .229
 6312
 
+
+Comenzo la operacion
 25/08
 Alburqueque:
 Castro:
@@ -26,4 +28,3 @@ Sosa octavio :
 Pira agustina:   13:04 ip en uso
 Nieto alejandro:
 Gimenez Aguilar Jessica:logueo 14:06 por Ip ocupada
-Comenzo la operacion
